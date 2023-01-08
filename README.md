@@ -1,6 +1,6 @@
 Fala galera 👋
 
-Meu nome é Maurilio Benevento, sou professor e consultor em tecnologia da informação na Hands4e. Estou revisando e estudando novas stacks, tais como Node.js
+Meu nome é Maurilio Benevento, sou professor e consultor em tecnologia da informação na Hands4e. 
 
 Abaixo um breve histórico sobre mim:
 
