@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-Meu nome é Maurilio Benevento, sou professor e consultor em tecnologia da informação. Sou fundador da StackX, uma nova maneira de formar profissional para desenvolvimento de sofware. 
+Meu nome é Maurilio Benevento, sou professor e consultor em tecnologia da informação na Hands4e. 
 
 Abaixo um breve histórico sobre mim:
 
